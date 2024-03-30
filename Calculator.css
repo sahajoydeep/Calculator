@@ -1,0 +1,61 @@
+#user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #32CD32;
+}
+
+.gold {
+    color: #0049B7;
+}
+
+.num1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 128);
+}
+
+.input1{
+    margin: 0 auto;
+    display: block;
+}
+
+.body{
+    background-color: #e5eaf5;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+
+.num2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 128);
+}
+
+.input2{
+    margin: 0 auto;
+    display: block;
+}
+
+#work {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 670px;
+    margin-top: 10px;
+}
+
+.output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
